@@ -1,0 +1,12 @@
+ mGnomeScreenshot
+ mGnomeScreenshot - интерактивное описание линукс утилиты gnome-screenshot. Написана на языке bash.
+ gnome-screenshot - запечатлеть экран, окно или определенную область пользователя и сохранить изображение снимка в файл.
+
+ https://asciinema.org/a/478046
+ https://github.com/GrannikOleg/mGnomeScreenshot
+ https://gitlab.com/GrannikOleg/mgnomescreenshot
+ https://sourceforge.net/projects/mgnomescreenshot/files/
+ https://notabug.org/Grannikoleg/mGnomeScreenshot
+ https://codeberg.org/Grannik/mGnomeScreenshot
+ https://bitbucket.org/grannikoleg/mgnomescreenshot/src/master/
+ https://framagit.org/GrannikOleg/mgnomescreenshot
